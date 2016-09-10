@@ -16,10 +16,6 @@ puts 175 >= 175
 puts 175 < 176
 puts 175 <= 175
 
-for dedos in 1..3
-	puts "Contando"
-end
-
 
 #comentario
 
